@@ -1,4 +1,4 @@
-# Distributed Order Processing Microservice
+# Distributed Order Processing
 
 A simple .NET Core 8 Web API that simulates a distributed order processing system.
 
