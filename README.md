@@ -61,8 +61,6 @@ curl -X 'GET' \
 
 ### Swagger UI
 
-![Swagger UI Screenshot](screenshots/swagger-ui.png)
-
 Post: ![image](https://github.com/user-attachments/assets/743d2fc1-140f-453b-a57e-328bad50cf53)
 Get: ![image](https://github.com/user-attachments/assets/b2e3bacb-150e-43dd-94db-fc3c2d60bd90)
 
